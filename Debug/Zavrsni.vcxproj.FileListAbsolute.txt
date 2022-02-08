@@ -1,0 +1,7 @@
+C:\Users\Petra Dundic\source\repos\Zavrsni\Debug\Zavrsni.vcxproj.AssemblyReference.cache
+C:\Users\Petra Dundic\source\repos\Zavrsni\Debug\Zavrsni.Params.resources
+C:\Users\Petra Dundic\source\repos\Zavrsni\Debug\Zavrsni.vcxproj.GenerateResource.cache
+C:\Users\Petra Dundic\source\repos\Zavrsni\Debug\Zavrsni.exe
+C:\Users\Petra Dundic\source\repos\Zavrsni\Debug\Zavrsni.Graph.resources
+C:\Users\Petra Dundic\source\repos\Zavrsni\Debug\Zavrsni.Table1.resources
+C:\Users\Petra Dundic\source\repos\Zavrsni\Debug\Zavrsni.GraphCompared.resources
